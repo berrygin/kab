@@ -222,5 +222,5 @@ def scan_oneday(date: str, hall='kamisato') -> None:
 
 
 if __name__ == '__main__':
-    scan_oneday('20231201', hall='kamisato')
+    scan_oneday('20231206', hall='kamisato')
 
